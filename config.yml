@@ -1,0 +1,15 @@
+baseURL: http://example.org/
+languageCode: en-gb
+title: UXR Portfolio | Manuel Macía
+theme: "papermodmod"
+
+params:
+    homeInfoParams:
+        Title: Hello 👋
+        Content: My name is Manuel Macía PhD. I am a Lodon-based UX Researcher with 5+ years of experience in high-level research design and experimental methodologies. My experience in teaching research methodologies and past research in the fields of art and architecture enable me to intuitively empathise with users and conduct interviews and usability studies, even those focused on complex or sensitive topics. Given my creative background, I have an advanced knowledge of UX and digital design tools.
+
+    socialIcons:
+    - name: "cv"
+      url: "https://www.dropbox.com/s/4656mly5dv9l2mk/2022%2011%2014%20-%20UXR%20CV.txt?dl=0"
+    - name: "email"
+      url: "mailto:ux.pr@anyhow.me"

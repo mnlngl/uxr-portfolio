@@ -1,0 +1,47 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+
+@font-face {
+  font-family: "necto";
+  src: url("/fonts/Necto-Mono.woff2") format("woff2"),
+       url("/fonts/Necto-Mono.woff") format("woff");
+}
+
+@font-face {
+  font-family: "porpora";
+  src: url("/fonts/Porpora-Regular.woff2") format("woff2"),
+       url("/fonts/Porpora-Regular.woff") format("woff");
+}
+
+
+@font-face {
+  font-family: "apfel-regular";
+  src: url("/fonts/ApfelGrotezk-Regular.woff2") format("woff2"),
+       url("/fonts/ApfelGrotezk-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "apfel-fett";
+  src: url("/fonts/ApfelGrotezk-Fett.woff2") format("woff2"),
+       url("/fonts/ApfelGrotezk-Fett.woff") format("woff");
+}
+
+@font-face {
+  font-family: "messapia";
+  src: url("/fonts/Messapia-Bold.woff2") format("woff2"),
+       url("/fonts/Messapia-Bold.woff") format("woff");
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "messapia";
+
+}
+
+body {
+  font-family: "apfel-regular";
+}
+
+}
